@@ -6,8 +6,14 @@ Willkommen! Hier finden Sie die Online-Begleitung zum Buch.
 
 Ihre Autoren
 
-- Tim Beermann ([OSISM GmbH](https://osism.tech))
-- Johannes Kastl ([B1 Systems GmbH](https://b1-systems.de))
-- Christian Rost ([B1 Systems GmbH](https://b1-systems.de))
-- Thorsten Schifferdecker ([B1 Systems GmbH](https://b1-systems.de))
-- Eike Waldt ([B1 Systems GmbH](https://b1-systems.de))
+- Tim Beermann
+- Johannes Kastl
+- Christian Rost
+- Thorsten Schifferdecker
+- Eike Waldt
+
+Mit Unterstützung von
+
+- [B1 Systems GmbH](https://b1-systems.de)
+- [OSISM GmbH](https://osism.tech)
+
